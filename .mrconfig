@@ -36,16 +36,16 @@ checkout = git clone 'git@github.com:atc1441/E-Paper_Pricetags.git' 'atc1441-E-P
 checkout = git clone 'git@github.com:ccadic/3wheelrobotRPI.git' 'ccadic-3wheelrobotRPI'
 
 [Documents/git/Hardware/groupgets-getthermal]
-checkout = git clone 'https://github.com/groupgets/GetThermal.git' 'groupgets-getthermal'
+checkout = git clone 'git@github.com:groupgets/GetThermal.git' 'groupgets-getthermal'
 
 [Documents/git/Hardware/jxlarrea-ha-bt-proximity]
-checkout = git clone 'https://github.com/jxlarrea/ha-bt-proximity.git' 'jxlarrea-ha-bt-proximity'
+checkout = git clone 'git@github.com:jxlarrea/ha-bt-proximity.git' 'jxlarrea-ha-bt-proximity'
 
 [Documents/git/Hardware/PiSupply-PiJuice]
-checkout = git clone 'https://github.com/PiSupply/PiJuice.git' 'PiSupply-PiJuice'
+checkout = git clone 'git@github.com:PiSupply/PiJuice.git' 'PiSupply-PiJuice'
 
 [Documents/git/Hardware/raspitv-raspio-inspiring]
-checkout = git clone 'https://github.com/raspitv/raspio-inspiring.git' 'raspitv-raspio-inspiring'
+checkout = git clone 'git@github.com:raspitv/raspio-inspiring.git' 'raspitv-raspio-inspiring'
 
 [Documents/git/Hardware/szdiy-USBcablecracker]
 checkout = git clone 'git@github.com:szdiy/USBcablecracker.git' 'szdiy-USBcablecracker'
@@ -67,7 +67,7 @@ checkout = git clone 'git@github.com:xgwhk/ESP32-Data-Recorder.git' 'ESP32-Data-
 
 
 [Documents/git/HomeAssistant/Lymkin-RockP_4_Home_Assistant_Build]
-checkout = git clone 'https://github.com/Lymkin/RockP_4_Home_Assistant_Build.git' 'Lymkin-RockP_4_Home_Assistant_Build'
+checkout = git clone 'git@github.com:Lymkin/RockP_4_Home_Assistant_Build.git' 'Lymkin-RockP_4_Home_Assistant_Build'
 
 [Documents/git/HomeAssistant/Snipercaine_DrZzs-home_assistant_config]
 checkout = git clone 'git@github.com:Snipercaine/home_assistant_config.git' 'Snipercaine_DrZzs-home_assistant_config'
@@ -78,22 +78,22 @@ checkout = git clone 'git@github.com:Snipercaine/WLED-HomeAssistant.git' 'Sniper
 
 
 [Documents/git/Inkscape/BvdP-elliptical-box-maker]
-checkout = git clone 'https://github.com/BvdP/elliptical-box-maker.git' 'BvdP-elliptical-box-maker'
+checkout = git clone 'git@github.com:BvdP/elliptical-box-maker.git' 'BvdP-elliptical-box-maker'
 
 [Documents/git/Inkscape/BvdP-Inkscape_helper]
-checkout = git clone 'https://github.com/BvdP/Inkscape_helper.git' 'BvdP-Inkscape_helper'
+checkout = git clone 'git@github.com:BvdP/Inkscape_helper.git' 'BvdP-Inkscape_helper'
 
 [Documents/git/Inkscape/jonhnet-maze-harvester]
 checkout = git clone 'git@github.com:jonhnet/maze-harvester.git' 'jonhnet-maze-harvester'
 
 [Documents/git/Inkscape/Neon22-inkscape-LasercutBox]
-checkout = git clone 'https://github.com/Neon22/inkscape-LasercutBox.git' 'Neon22-inkscape-LasercutBox'
+checkout = git clone 'git@github.com:Neon22/inkscape-LasercutBox.git' 'Neon22-inkscape-LasercutBox'
 
 
 
 
 [Documents/git/Software/espressif-esptool]
-checkout = git clone 'https://github.com/espressif/esptool.git' 'espressif-esptool'
+checkout = git clone 'git@github.com:espressif/esptool.git' 'espressif-esptool'
 
 [Documents/git/Software/micropython-webrepl]
 checkout = git clone 'git@github.com:micropython/webrepl.git' 'micropython-webrepl'
@@ -105,7 +105,7 @@ checkout = git clone 'git@github.com:mikeal/spider.git' 'mikeal-spider'
 checkout = git clone 'git@github.com:MycroftAI/enclosure-picroft.git' 'MyCroftAI-enclosure-picroft'
 
 [Documents/git/Software/sarah314-SpyPi]
-checkout = git clone 'https://github.com/sarah314/SpyPi.git' 'sarah314-SpyPi'
+checkout = git clone 'git@github.com:sarah314/SpyPi.git' 'sarah314-SpyPi'
 
 [Documents/git/Software/esphome-esphome-flasher]
 checkout = git clone 'git@github.com:esphome/esphome-flasher.git' 'esphome-esphome-flasher'
