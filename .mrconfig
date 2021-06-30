@@ -41,6 +41,12 @@ checkout = git clone 'git@github.com:groupgets/GetThermal.git' 'groupgets-getthe
 [Documents/git/Hardware/jxlarrea-ha-bt-proximity]
 checkout = git clone 'git@github.com:jxlarrea/ha-bt-proximity.git' 'jxlarrea-ha-bt-proximity'
 
+[Documents/git/Hardware/NikodemBartnik-IndyMill]
+checkout = git clone 'git@github.com:NikodemBartnik/IndyMill.git' 'NikodemBartnik-IndyMill'
+
+[Documents/git/Hardware/NikodemBartnik-Z-probe-for-Dremel-CNC]
+checkout = git clone 'git@github.com:NikodemBartnik/Z-probe-for-Dremel-CNC.git' 'NikodemBartnik-Z-probe-for-Dremel-CNC'
+
 [Documents/git/Hardware/PiSupply-PiJuice]
 checkout = git clone 'git@github.com:PiSupply/PiJuice.git' 'PiSupply-PiJuice'
 
