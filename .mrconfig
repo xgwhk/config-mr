@@ -104,6 +104,9 @@ checkout = git clone 'git@github.com:mikeal/spider.git' 'mikeal-spider'
 [Documents/git/Software/MyCroftAI-enclosure-picroft]
 checkout = git clone 'git@github.com:MycroftAI/enclosure-picroft.git' 'MyCroftAI-enclosure-picroft'
 
+[Documents/git/Software/royrobotiks-myowninsta]
+checkout = git clone 'git@github.com:royrobotiks/myowninsta.git' 'royrobotiks-myowninsta'
+
 [Documents/git/Software/sarah314-SpyPi]
 checkout = git clone 'git@github.com:sarah314/SpyPi.git' 'sarah314-SpyPi'
 
@@ -112,9 +115,6 @@ checkout = git clone 'git@github.com:esphome/esphome-flasher.git' 'esphome-espho
 
 [Documents/git/Software/ytdl-org-youtube-dl]
 checkout = git clone 'git@github.com:ytdl-org/youtube-dl.git' 'ytdl-org-youtube-dl'
-
-
-
 
 
 
