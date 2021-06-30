@@ -91,6 +91,8 @@ checkout = git clone 'git@github.com:Neon22/inkscape-LasercutBox.git' 'Neon22-in
 
 
 
+[Documents/git/Software/atareao-habits]
+checkout = git clone 'git@github.com:atareao/habits.git' 'atareao-habits'
 
 [Documents/git/Software/espressif-esptool]
 checkout = git clone 'git@github.com:espressif/esptool.git' 'espressif-esptool'
