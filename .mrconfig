@@ -64,8 +64,8 @@ checkout = git clone 'git@github.com:Yubico/yubikey-personalization-gui.git' 'Yu
 [Documents/git/Home/config-mr]
 checkout = git clone 'git@github.com:xgwhk/config-mr.git' 'config-mr'
 
-[Documents/git/Home/config-Valheim]
-checkout = git clone 'git@github.com:xgwhk/config-Valheim.git' 'config-Valheim'
+[Documents/git/Home/Valheim-backup]
+checkout = git clone 'git@github.com:xgwhk/Valheim-backup.git' 'Valheim-backup'
 
 [Documents/git/Home/ESP32-Data-Recorder]
 checkout = git clone 'git@github.com:xgwhk/ESP32-Data-Recorder.git' 'ESP32-Data-Recorder'
