@@ -23,6 +23,11 @@ checkout = git clone 'https://github.com/dimsumlabs/dsl-meta.wiki.git' 'meta.wik
 
 
 
+[Documents/git/Games/AUNaseef-protonup]
+checkout = git clone 'git@github.com:AUNaseef/protonup.git' 'AUNaseef-protonup'
+
+
+
 [Documents/git/Hardware/3d-print-camera-Brancopan]
 checkout = git clone 'git@github.com:cameradactyl/Brancopan.git' '3d-print-camera-Brancopan'
 
@@ -123,6 +128,5 @@ checkout = git clone 'git@github.com:esphome/esphome-flasher.git' 'esphome-espho
 
 [Documents/git/Software/ytdl-org-youtube-dl]
 checkout = git clone 'git@github.com:ytdl-org/youtube-dl.git' 'ytdl-org-youtube-dl'
-
 
 
