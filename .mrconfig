@@ -130,3 +130,6 @@ checkout = git clone 'git@github.com:esphome/esphome-flasher.git' 'esphome-espho
 checkout = git clone 'git@github.com:ytdl-org/youtube-dl.git' 'ytdl-org-youtube-dl'
 
 
+
+[Documents/git/Software/jstaf-onedriver]
+checkout = git clone 'git@github.com:jstaf/onedriver.git' 'jstaf-onedriver'
