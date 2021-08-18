@@ -7,7 +7,7 @@ checkout = git clone 'git@github.com:alicevision/meshroom.git' 'meshroom'
 
 
 
-[Documents/git/Cooking/iot-sourdough-starter-monitor]
+[Documents/git/cooking/iot-sourdough-starter-monitor]
 checkout = git clone 'git@github.com:justinmklam/iot-sourdough-starter-monitor.git' 'iot-sourdough-starter-monitor'
 
 
@@ -23,113 +23,112 @@ checkout = git clone 'https://github.com/dimsumlabs/dsl-meta.wiki.git' 'meta.wik
 
 
 
-[Documents/git/Games/AUNaseef-protonup]
+[Documents/git/games/AUNaseef-protonup]
 checkout = git clone 'git@github.com:AUNaseef/protonup.git' 'AUNaseef-protonup'
 
 
 
-[Documents/git/Hardware/3d-print-camera-Brancopan]
+[Documents/git/hardware/3d-print-camera-Brancopan]
 checkout = git clone 'git@github.com:cameradactyl/Brancopan.git' '3d-print-camera-Brancopan'
 
-[Documents/git/Hardware/AndreasSpiess-SuperPower]
+[Documents/git/hardware/AndreasSpiess-SuperPower]
 checkout = git clone 'git@github.com:SensorsIot/SuperPower.git' 'AndreasSpiess-SuperPower'
 
-[Documents/git/Hardware/atc1441-E-Paper_Pricetags]
+[Documents/git/hardware/atc1441-E-Paper_Pricetags]
 checkout = git clone 'git@github.com:atc1441/E-Paper_Pricetags.git' 'atc1441-E-Paper_Pricetags'
 
-[Documents/git/Hardware/ccadic-3wheelrobotRPI]
+[Documents/git/hardware/ccadic-3wheelrobotRPI]
 checkout = git clone 'git@github.com:ccadic/3wheelrobotRPI.git' 'ccadic-3wheelrobotRPI'
 
-[Documents/git/Hardware/groupgets-getthermal]
+[Documents/git/hardware/groupgets-getthermal]
 checkout = git clone 'git@github.com:groupgets/GetThermal.git' 'groupgets-getthermal'
 
-[Documents/git/Hardware/jxlarrea-ha-bt-proximity]
+[Documents/git/hardware/jxlarrea-ha-bt-proximity]
 checkout = git clone 'git@github.com:jxlarrea/ha-bt-proximity.git' 'jxlarrea-ha-bt-proximity'
 
-[Documents/git/Hardware/NikodemBartnik-IndyMill]
+[Documents/git/hardware/NikodemBartnik-IndyMill]
 checkout = git clone 'git@github.com:NikodemBartnik/IndyMill.git' 'NikodemBartnik-IndyMill'
 
-[Documents/git/Hardware/NikodemBartnik-Z-probe-for-Dremel-CNC]
+[Documents/git/hardware/NikodemBartnik-Z-probe-for-Dremel-CNC]
 checkout = git clone 'git@github.com:NikodemBartnik/Z-probe-for-Dremel-CNC.git' 'NikodemBartnik-Z-probe-for-Dremel-CNC'
 
-[Documents/git/Hardware/PiSupply-PiJuice]
+[Documents/git/hardware/PiSupply-PiJuice]
 checkout = git clone 'git@github.com:PiSupply/PiJuice.git' 'PiSupply-PiJuice'
 
-[Documents/git/Hardware/raspitv-raspio-inspiring]
+[Documents/git/hardware/raspitv-raspio-inspiring]
 checkout = git clone 'git@github.com:raspitv/raspio-inspiring.git' 'raspitv-raspio-inspiring'
 
-[Documents/git/Hardware/szdiy-USBcablecracker]
+[Documents/git/hardware/szdiy-USBcablecracker]
 checkout = git clone 'git@github.com:szdiy/USBcablecracker.git' 'szdiy-USBcablecracker'
 
-[Documents/git/Hardware/Yubico-yubikey-personalization-gui]
+[Documents/git/hardware/Yubico-yubikey-personalization-gui]
 checkout = git clone 'git@github.com:Yubico/yubikey-personalization-gui.git' 'Yubico-yubikey-personalization-gui'
 
 
 
-[Documents/git/Home/config-mr]
+[Documents/git/home/config-mr]
 checkout = git clone 'git@github.com:xgwhk/config-mr.git' 'config-mr'
 
-[Documents/git/Home/Valheim-backup]
+[Documents/git/home/Valheim-backup]
 checkout = git clone 'git@github.com:xgwhk/Valheim-backup.git' 'Valheim-backup'
 
-[Documents/git/Home/ESP32-Data-Recorder]
+[Documents/git/home/ESP32-Data-Recorder]
 checkout = git clone 'git@github.com:xgwhk/ESP32-Data-Recorder.git' 'ESP32-Data-Recorder'
 
 
 
-[Documents/git/HomeAssistant/Lymkin-RockP_4_Home_Assistant_Build]
+[Documents/git/homeassistant/Lymkin-RockP_4_Home_Assistant_Build]
 checkout = git clone 'git@github.com:Lymkin/RockP_4_Home_Assistant_Build.git' 'Lymkin-RockP_4_Home_Assistant_Build'
 
-[Documents/git/HomeAssistant/Snipercaine_DrZzs-home_assistant_config]
+[Documents/git/homeassistant/Snipercaine_DrZzs-home_assistant_config]
 checkout = git clone 'git@github.com:Snipercaine/home_assistant_config.git' 'Snipercaine_DrZzs-home_assistant_config'
 
-[Documents/git/HomeAssistant/Snipercaine_DrZzs-WLED-HomeAssistant]
+[Documents/git/homeassistant/Snipercaine_DrZzs-WLED-HomeAssistant]
 checkout = git clone 'git@github.com:Snipercaine/WLED-HomeAssistant.git' 'Snipercaine_DrZzs-WLED-HomeAssistant'
 
 
 
-[Documents/git/Inkscape/BvdP-elliptical-box-maker]
+[Documents/git/inkscape/BvdP-elliptical-box-maker]
 checkout = git clone 'git@github.com:BvdP/elliptical-box-maker.git' 'BvdP-elliptical-box-maker'
 
-[Documents/git/Inkscape/BvdP-Inkscape_helper]
+[Documents/git/inkscape/BvdP-Inkscape_helper]
 checkout = git clone 'git@github.com:BvdP/Inkscape_helper.git' 'BvdP-Inkscape_helper'
 
-[Documents/git/Inkscape/jonhnet-maze-harvester]
+[Documents/git/inkscape/jonhnet-maze-harvester]
 checkout = git clone 'git@github.com:jonhnet/maze-harvester.git' 'jonhnet-maze-harvester'
 
-[Documents/git/Inkscape/Neon22-inkscape-LasercutBox]
+[Documents/git/inkscape/Neon22-inkscape-LasercutBox]
 checkout = git clone 'git@github.com:Neon22/inkscape-LasercutBox.git' 'Neon22-inkscape-LasercutBox'
 
 
 
-[Documents/git/Software/atareao-habits]
+[Documents/git/software/atareao-habits]
 checkout = git clone 'git@github.com:atareao/habits.git' 'atareao-habits'
 
-[Documents/git/Software/espressif-esptool]
+[Documents/git/software/espressif-esptool]
 checkout = git clone 'git@github.com:espressif/esptool.git' 'espressif-esptool'
 
-[Documents/git/Software/micropython-webrepl]
+[Documents/git/software/micropython-webrepl]
 checkout = git clone 'git@github.com:micropython/webrepl.git' 'micropython-webrepl'
 
-[Documents/git/Software/mikeal-spider]
+[Documents/git/software/mikeal-spider]
 checkout = git clone 'git@github.com:mikeal/spider.git' 'mikeal-spider'
 
-[Documents/git/Software/MyCroftAI-enclosure-picroft]
+[Documents/git/software/MyCroftAI-enclosure-picroft]
 checkout = git clone 'git@github.com:MycroftAI/enclosure-picroft.git' 'MyCroftAI-enclosure-picroft'
 
-[Documents/git/Software/royrobotiks-myowninsta]
+[Documents/git/software/royrobotiks-myowninsta]
 checkout = git clone 'git@github.com:royrobotiks/myowninsta.git' 'royrobotiks-myowninsta'
 
-[Documents/git/Software/sarah314-SpyPi]
+[Documents/git/software/sarah314-SpyPi]
 checkout = git clone 'git@github.com:sarah314/SpyPi.git' 'sarah314-SpyPi'
 
-[Documents/git/Software/esphome-esphome-flasher]
+[Documents/git/software/esphome-esphome-flasher]
 checkout = git clone 'git@github.com:esphome/esphome-flasher.git' 'esphome-esphome-flasher'
 
-[Documents/git/Software/ytdl-org-youtube-dl]
+[Documents/git/software/ytdl-org-youtube-dl]
 checkout = git clone 'git@github.com:ytdl-org/youtube-dl.git' 'ytdl-org-youtube-dl'
 
-
-
-[Documents/git/Software/jstaf-onedriver]
+[Documents/git/software/jstaf-onedriver]
 checkout = git clone 'git@github.com:jstaf/onedriver.git' 'jstaf-onedriver'
+

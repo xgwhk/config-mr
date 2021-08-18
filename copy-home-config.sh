@@ -1,3 +1,3 @@
  #!/bin/bash
-cp ~/.mrconfig ~/Documents/git/Home/config-mr/.mrconfig
+cp ~/.mrconfig ~/Documents/git/home/config-mr/.mrconfig
 
