@@ -1,6 +1,12 @@
 
+[Documents/git/3D/3d-print-camera-Brancopan]
+checkout = git clone 'git@github.com:cameradactyl/Brancopan.git' '3d-print-camera-Brancopan'
+
 [Documents/git/3D/AliceVision]
 checkout = git clone 'git@github.com:alicevision/AliceVision.git' 'AliceVision'
+
+[Documents/git/3D/geerlingguy-3d-printing]
+checkout = git clone 'git@github.com:geerlingguy/3d-printing.git' 'geerlingguy-3d-printing'
 
 [Documents/git/3D/meshroom]
 checkout = git clone 'git@github.com:alicevision/meshroom.git' 'meshroom'
@@ -27,9 +33,6 @@ checkout = git clone 'https://github.com/dimsumlabs/dsl-meta.wiki.git' 'meta.wik
 checkout = git clone 'git@github.com:AUNaseef/protonup.git' 'AUNaseef-protonup'
 
 
-
-[Documents/git/hardware/3d-print-camera-Brancopan]
-checkout = git clone 'git@github.com:cameradactyl/Brancopan.git' '3d-print-camera-Brancopan'
 
 [Documents/git/hardware/AndreasSpiess-SuperPower]
 checkout = git clone 'git@github.com:SensorsIot/SuperPower.git' 'AndreasSpiess-SuperPower'
@@ -99,6 +102,11 @@ checkout = git clone 'git@github.com:jonhnet/maze-harvester.git' 'jonhnet-maze-h
 
 [Documents/git/inkscape/Neon22-inkscape-LasercutBox]
 checkout = git clone 'git@github.com:Neon22/inkscape-LasercutBox.git' 'Neon22-inkscape-LasercutBox'
+
+
+
+[Documents/git/robot/XRobots-ServoSmoothing]
+checkout = git clone 'git@github.com:XRobots/ServoSmoothing.git' 'XRobots-ServoSmoothing'
 
 
 
