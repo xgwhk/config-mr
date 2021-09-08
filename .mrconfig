@@ -140,3 +140,8 @@ checkout = git clone 'git@github.com:ytdl-org/youtube-dl.git' 'ytdl-org-youtube-
 [Documents/git/software/jstaf-onedriver]
 checkout = git clone 'git@github.com:jstaf/onedriver.git' 'jstaf-onedriver'
 
+[Documents/git/software/geerlingguy-internet-pi]
+checkout = git clone 'git@github.com:geerlingguy/internet-pi.git' 'geerlingguy-internet-pi'
+
+
+
