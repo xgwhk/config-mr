@@ -11,12 +11,8 @@ checkout = git clone 'git@github.com:geerlingguy/3d-printing.git' 'geerlingguy-3
 [Documents/git/3D/meshroom]
 checkout = git clone 'git@github.com:alicevision/meshroom.git' 'meshroom'
 
-
-
 [Documents/git/cooking/iot-sourdough-starter-monitor]
 checkout = git clone 'git@github.com:justinmklam/iot-sourdough-starter-monitor.git' 'iot-sourdough-starter-monitor'
-
-
 
 [Documents/git/dimsumlabs/accounts]
 checkout = git clone 'git@github.com:dimsumlabs/dsl-accounts.git' 'accounts'
@@ -27,12 +23,8 @@ checkout = git clone 'git@github.com:dimsumlabs/dimsumlabs-graphics.git' 'graphi
 [Documents/git/dimsumlabs/meta.wiki]
 checkout = git clone 'https://github.com/dimsumlabs/dsl-meta.wiki.git' 'meta.wiki'
 
-
-
 [Documents/git/games/AUNaseef-protonup]
 checkout = git clone 'git@github.com:AUNaseef/protonup.git' 'AUNaseef-protonup'
-
-
 
 [Documents/git/hardware/AndreasSpiess-SuperPower]
 checkout = git clone 'git@github.com:SensorsIot/SuperPower.git' 'AndreasSpiess-SuperPower'
@@ -67,8 +59,6 @@ checkout = git clone 'git@github.com:szdiy/USBcablecracker.git' 'szdiy-USBcablec
 [Documents/git/hardware/Yubico-yubikey-personalization-gui]
 checkout = git clone 'git@github.com:Yubico/yubikey-personalization-gui.git' 'Yubico-yubikey-personalization-gui'
 
-
-
 [Documents/git/home/config-mr]
 checkout = git clone 'git@github.com:xgwhk/config-mr.git' 'config-mr'
 
@@ -78,8 +68,6 @@ checkout = git clone 'git@github.com:xgwhk/Valheim-backup.git' 'Valheim-backup'
 [Documents/git/home/ESP32-Data-Recorder]
 checkout = git clone 'git@github.com:xgwhk/ESP32-Data-Recorder.git' 'ESP32-Data-Recorder'
 
-
-
 [Documents/git/homeassistant/Lymkin-RockP_4_Home_Assistant_Build]
 checkout = git clone 'git@github.com:Lymkin/RockP_4_Home_Assistant_Build.git' 'Lymkin-RockP_4_Home_Assistant_Build'
 
@@ -88,8 +76,6 @@ checkout = git clone 'git@github.com:Snipercaine/home_assistant_config.git' 'Sni
 
 [Documents/git/homeassistant/Snipercaine_DrZzs-WLED-HomeAssistant]
 checkout = git clone 'git@github.com:Snipercaine/WLED-HomeAssistant.git' 'Snipercaine_DrZzs-WLED-HomeAssistant'
-
-
 
 [Documents/git/inkscape/BvdP-elliptical-box-maker]
 checkout = git clone 'git@github.com:BvdP/elliptical-box-maker.git' 'BvdP-elliptical-box-maker'
@@ -103,12 +89,8 @@ checkout = git clone 'git@github.com:jonhnet/maze-harvester.git' 'jonhnet-maze-h
 [Documents/git/inkscape/Neon22-inkscape-LasercutBox]
 checkout = git clone 'git@github.com:Neon22/inkscape-LasercutBox.git' 'Neon22-inkscape-LasercutBox'
 
-
-
 [Documents/git/robot/XRobots-ServoSmoothing]
 checkout = git clone 'git@github.com:XRobots/ServoSmoothing.git' 'XRobots-ServoSmoothing'
-
-
 
 [Documents/git/software/atareao-habits]
 checkout = git clone 'git@github.com:atareao/habits.git' 'atareao-habits'
@@ -142,6 +124,3 @@ checkout = git clone 'git@github.com:jstaf/onedriver.git' 'jstaf-onedriver'
 
 [Documents/git/software/geerlingguy-internet-pi]
 checkout = git clone 'git@github.com:geerlingguy/internet-pi.git' 'geerlingguy-internet-pi'
-
-
-
